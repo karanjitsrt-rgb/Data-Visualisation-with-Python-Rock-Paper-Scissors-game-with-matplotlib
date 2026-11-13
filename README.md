@@ -17,7 +17,7 @@ Session Tracking: Logs data across multiple rounds to show long-term trends.
 🚀 Quick Start
 Bash
 # Clone the repository
-git clone https://github.com/karanjitsrt-rgb/rps-visualized.git
+git clone https://github.com/karanjitsrt-rgb/Data-Visualisation-with-Python-Rock-Paper-Scissors-game-with-matplotlib.git
 
 # Install dependencies
 pip install matplotlib
